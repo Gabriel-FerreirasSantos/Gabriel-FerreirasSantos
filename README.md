@@ -5,13 +5,6 @@
 ### Sonho:
 ##### 📘 TI
 
-##### 👨🏻‍💻Ethical Hacker
-### Estudos:
-
-##### 📚 Ciência da computação
-
-##### 📚 informatica
-
 <a/>
 <a href="https://www.facebook.com/bielzinnln" target="_blank">
 <img aling="center" alt="gabriel facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
