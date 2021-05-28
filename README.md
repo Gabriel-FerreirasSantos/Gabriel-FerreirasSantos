@@ -1,9 +1,4 @@
 ### hello people👋
-# Gabriel Ferreiras
-### Idade:
-##### ❤️ 15 years
-### Sonho:
-##### 📘 TI
 
 <a/>
 <a href="https://www.facebook.com/bielzinnln" target="_blank">
