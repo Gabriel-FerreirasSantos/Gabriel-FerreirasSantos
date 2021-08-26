@@ -26,4 +26,6 @@ style="max-widht:100%;"<a/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" alt="rails" width="40" height="40" style="max - width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pitao" width="40" height="40" style="max - width:100%;"></img>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-FerreirasSantos)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Não é a linguagem de programção que define um programador, mais sim sua lógica. 😊
