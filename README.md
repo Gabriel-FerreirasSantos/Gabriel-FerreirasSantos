@@ -10,11 +10,7 @@ style="max-widht:100%;"<a/>
 <img aling="center" alt="gabriel telegram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/T.me.png"
 style="max-widht:100%;"<a/>
 <a/>
-<a/>  
-<a href="https://www.instagram.com/gabriel_ferreiras_santos/" targent="blank"> 
-<img aling="center" alt="gabriel instagram" height="30" width="30" src="https://cdn.pixabay.com/photo/2018/11/13/22/01/instagram-3814080_960_720.png" 
-style="max-widht:100%;"<a/>
-<a/>  
+
 
 ##  Estou estudando (linguagens) 📓
   
