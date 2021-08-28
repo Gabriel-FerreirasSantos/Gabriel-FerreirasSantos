@@ -28,6 +28,5 @@ style="max-widht:100%;"<a/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-FerreirasSantos)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FerreirasSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabrielz)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Não é a linguagem de programção que define um programador, mais sim sua lógica. 😊
