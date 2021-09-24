@@ -14,7 +14,7 @@ style="max-widht:100%;"<a/>
 
 ##  Estou estudando (linguagens) 📓
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
 
 ## minhas habilidades
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" alt="rails" width="40" height="40" style="max - width:100%;"></img>
