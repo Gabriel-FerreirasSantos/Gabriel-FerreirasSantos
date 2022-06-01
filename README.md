@@ -1,18 +1,6 @@
 ### hello people👋
 
-<a/>
-<a href="https://www.facebook.com/bielzinnln" target="_blank">
-<img aling="center" alt="gabriel facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
-style="max-widht:100%;"<a/>
-<a/>
-<a/>  
-<a href="https://t.me/Gabriel_Ferreiras" targent="blank"> 
-<img aling="center" alt="gabriel telegram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/T.me.png"
-style="max-widht:100%;"<a/>
-<a/>
-
-
-##  Estou estudando (linguagens) 📓
+##  Estou estudando atualmente📓
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
 
@@ -24,7 +12,12 @@ style="max-widht:100%;"<a/>
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-FerreirasSantos)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FerreirasSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Gabriel-FerreirasSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-FerreirasSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-### Não é a linguagem de programção que define um programador, mais sim sua lógica. 😊
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FerreirasSantos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  ### <b><i aling="center">"Não é a linguagem de programção que define um programador, mais sim sua lógica"</i></b> 😊
