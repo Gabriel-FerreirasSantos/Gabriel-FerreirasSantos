@@ -19,5 +19,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FerreirasSantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+ <br>
+        
   ### <b><i aling="center">"Não é a linguagem de programção que define um programador, mais sim sua lógica"</i></b> 😊
